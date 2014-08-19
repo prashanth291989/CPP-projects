@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1404346597 source:d:\c++\p88\board.cpp
+	"Board.h"
+	"cluster.h"
+	"exception.h"
+
+1404346460 d:\c++\p88\board.h
+	"tools.h"
+	"Square.h"
+	"CanView.h"
+	"Frame.h"
+
+1404344048 d:\c++\p88\tools.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<vector>
+	<string>
+	<algorithm>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<ctime>
+	<cctype>
+	<cstdarg>
+
+1404345111 d:\c++\p88\square.h
+	"tools.h"
+
+1404342720 d:\c++\p88\canview.h
+	<string>
+
+1404345111 d:\c++\p88\frame.h
+	<iostream>
+	"Square.h"
+
+1404342790 d:\c++\p88\cluster.h
+	"Square.h"
+
+1404342667 source:d:\c++\p88\canvas.cpp
+	<iostream>
+	"Canvas.h"
+
+1404342644 d:\c++\p88\canvas.h
+	"MixedChar.h"
+	"GridChar.h"
+
+1404343628 d:\c++\p88\mixedchar.h
+	"tools.h"
+
+1404343270 d:\c++\p88\gridchar.h
+
+1404342811 source:d:\c++\p88\cluster.cpp
+	"cluster.h"
+
+1404347710 source:d:\c++\p88\exception.cpp
+	"exception.h"
+
+1404347655 d:\c++\p88\exception.h
+	<exception>
+	<iostream>
+	"tools.h"
+
+1404345111 source:d:\c++\p88\frame.cpp
+	"Frame.h"
+
+1404348217 source:d:\c++\p88\game.cpp
+	"Game.h"
+	"Board.h"
+
+1404346561 d:\c++\p88\game.h
+	"Viewer.h"
+	"Board.h"
+	"Stack.h"
+	"exception.h"
+
+1404344148 d:\c++\p88\viewer.h
+	<iostream>
+	<string>
+	"CanView.h"
+
+1404343909 d:\c++\p88\stack.h
+	<vector>
+	"Frame.h"
+
+1404343249 source:d:\c++\p88\gridchar.cpp
+	"tools.h"
+	"GridChar.h"
+
+1404347274 source:d:\c++\p88\main.cpp
+	"Square.h"
+	"Board.h"
+	"tools.h"
+	"cluster.h"
+	"Game.h"
+	"exception.h"
+
+1404343594 source:d:\c++\p88\mixedchar.cpp
+	"tools.h"
+	"MixedChar.h"
+
+1404345137 source:d:\c++\p88\square.cpp
+	"Square.h"
+	"Cluster.h"
+	"string.h"
+
+1404343887 source:d:\c++\p88\stack.cpp
+	"stack.h"
+
+1404344048 source:d:\c++\p88\tools.cpp
+	"tools.h"
+
+1404344148 source:d:\c++\p88\viewer.cpp
+	"Viewer.h"
+	"Canvas.h"
+
